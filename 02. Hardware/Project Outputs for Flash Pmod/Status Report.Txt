@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Flash Pmod.PrjPcb]
+   Generated File[Flash Pmod.TXT]
+   Generated File[Flash Pmod.LDP]
+   Generated File[Flash Pmod.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:35:45 On 30/05/2023
